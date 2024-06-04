@@ -1,0 +1,19 @@
+{
+    "slides": [
+      {
+        "src": "./r1.png",
+        "alt": "Image 1",
+        "details": { "bedrooms": 3, "bathrooms": 2, "sqft": 1200 }
+      },
+      {
+        "src": "./r2.png",
+        "alt": "Image 2",
+        "details": { "bedrooms": 2, "bathrooms": 1, "sqft": 1000 }
+      },
+      {
+        "src": "./r3.png",
+        "alt": "Image 3",
+        "details": { "bedrooms": 1, "bathrooms": 2, "sqft": 800 }
+      }
+    ]
+  }
